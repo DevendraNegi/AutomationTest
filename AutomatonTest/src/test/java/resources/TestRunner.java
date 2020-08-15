@@ -4,7 +4,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features={"/src/test/java/resources"},glue={"/src/test/java/steps"})
+@CucumberOptions(features={"src/test/java/resources"},glue={"/steps"},tags={"@tag1"})
 public class TestRunner {
 
 }

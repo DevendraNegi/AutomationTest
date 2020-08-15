@@ -1,6 +1,6 @@
-2020-08-14 02:09:43,760  INFO [main] TestBase:17 - TestBase()
-2020-08-14 02:09:43,769  INFO [main] TestBase:16 - GenralSteps.super()
-2020-08-14 02:09:43,769  INFO [main] TestBase:21 - setUp
-2020-08-14 02:09:43,770  INFO [main] TestBase:27 - TestBase.initilization
-2020-08-14 02:09:49,635  INFO [main] TestBase:17 - TestBase()
-2020-08-14 02:09:51,472  INFO [main] TestBase:33 - tearDown
+2020-08-15 13:54:02,720  INFO [main] TestBase:17 - TestBase()
+2020-08-15 13:54:02,736  INFO [main] TestBase:16 - GenralSteps.super()
+2020-08-15 13:54:02,736  INFO [main] TestBase:21 - setUp
+2020-08-15 13:54:02,736  INFO [main] TestBase:27 - TestBase.initilization
+2020-08-15 13:54:21,400  INFO [main] TestBase:17 - TestBase()
+2020-08-15 13:54:23,458  INFO [main] TestBase:33 - tearDown
